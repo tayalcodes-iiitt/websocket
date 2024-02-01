@@ -11,7 +11,6 @@ Below are the snippets of an overall architecture of the assignment.
 Installation 
 
 # Clone the repository
-git clone https://github.com/ali-bouali/one-to-one-chat-spring-boot-web-socket
 
 # Change into the project directory
 cd your-project
