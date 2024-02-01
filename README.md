@@ -8,3 +8,13 @@ Below are the snippets of an overall architecture of the assignment.
 
 ![image](https://github.com/tayalcodes-iiitt/websocket/assets/85633121/1373ec6f-f630-4f23-aaa5-8e95f03c706e)
 
+Installation 
+
+# Clone the repository
+git clone https://github.com/ali-bouali/one-to-one-chat-spring-boot-web-socket
+
+# Change into the project directory
+cd your-project
+
+# Build the project
+./mvnw clean install
