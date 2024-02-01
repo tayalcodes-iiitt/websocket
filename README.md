@@ -11,6 +11,7 @@ Below are the snippets of an overall architecture of the assignment.
 Installation 
 
 # Clone the repository
+https://github.com/tayalcodes-iiitt/websocket.git
 
 # Change into the project directory
 cd your-project
